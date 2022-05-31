@@ -35,6 +35,9 @@ main {
     transform: scale(.7);
 }
 
+.hero-img {
+    width: 100%;
+}
 .wrapper {
     padding: 4rem 2rem;
     text-align: center;
