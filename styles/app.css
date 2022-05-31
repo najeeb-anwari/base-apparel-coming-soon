@@ -35,11 +35,6 @@ main {
     transform: scale(.7);
 }
 
-.hero-img {
-    content: url("../images/hero-mobile.jpg");
-    width: 100%;
-}
-
 .wrapper {
     padding: 4rem 2rem;
     text-align: center;
